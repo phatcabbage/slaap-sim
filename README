@@ -1,0 +1,4 @@
+SLAAP Sim
+The Stream-Location Aware Alliance Partitioning Simulator
+
+SLAAP attempts to modify BitTorrent to make it more facilitative to content streaming. It modifies the chunk selection and peer selection behaviors with the end goal of decreasing buffer underruns in the media player, buffering time, and overall download time.
